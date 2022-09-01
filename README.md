@@ -643,8 +643,6 @@ Para forzarlo un log rotate ejecutamos la configuración de logrotate mediante
     sudo logrotate -f /etc/logrotate.conf 
 ```
 
-# SELinux
-
 # AppArmor
 AppArmor es un módulo del kernel linux utilizado para limitar y/o restringir las capacidades de acceso de un programa en específico, siendo este considerado un MAC (name-based access control) / control de accceso obligatorio. Se basa en un sistema de perfiles gestionados por el usuario o un gestor de paquetes. 
 
@@ -711,6 +709,8 @@ Si no se encuentran en estar carpetas, es posible buscar el archivo deseado con 
 
 
 ---
+# Material complementario: 
+https://drive.google.com/file/d/1QaPWJq06zR0OiGjzgFM021wvBPqCJibY/view?usp=sharing
 
 # Enlaces de interés
 
