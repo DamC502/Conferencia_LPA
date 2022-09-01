@@ -356,6 +356,8 @@ En algunas ocasiones es deseable deshabilitar la swap, para ello podemos hacer u
 # SysRQ - REISUB: ¡¡REInicia SUBnormal!!
 ![](/img/img01.jpg) 
 
+*Nota:* En algunos sistemas con interfaz gráfica es necesario desasignar la tecla `ImpPrint/SysRq/Pet Sis` para la toma de capturas de pantalla, esto se puede hacer con la aplicación de Atajo de teclados o Shortcut Keys que viene integrada con el entorno gráfico. 
+
 SysRQ es una combinación de teclado, la cual utiliza la tecla `ImpPrint/SysRq/Pet Sis`  que permite rescatar el sistema cuando ocurre una sobrecarga de memoria por un proceso fuera de control ó un problema del sistema. 
 
 En la mayoría de sistemas esta opción esta deshabilitada, verificar el estado de esta opción usamos el siguiente comando
@@ -728,6 +730,7 @@ https://docs.gluster.org/en/main/Administrator-Guide/Linux-Kernel-Tuning/#commen
 
 https://www.kernel.org/doc/Documentation/sysctl/vm.txt
 
+https://www.linuxatemyram.com/ 
 
 ## systemd
 
